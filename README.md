@@ -1,7 +1,18 @@
-# Calculator-Mini-dapps
+<div align="centre">
+
+##  **Introduction📜**
+
+</div>
+
 I’m building a simple calculator as a mini dApp on Base.  The idea is straightforward. Most people think dApps have to be complex, full of tokens and charts. I wanted to start with something everyone understands. A calculator. But instead of running locally, it lives on-chain.
 
-# REQUIRED LINKS
+
+<div align="center">
+  
+##  **Pre-Requirements⚙️**
+
+</div>
+
 1.) Create V0 account :- https://v0.app/ref/S4PSH0
 
 2.) Create @farcaster_xyz :- https://farcaster.xyz/~/code/039FJB
@@ -10,11 +21,17 @@ I’m building a simple calculator as a mini dApp on Base.  The idea is straight
 
 ● Must link your farcaster account in base app
 
-# REQUIRED STEPS
+
+<div align="center">
+  
+##  **Required Steps📔**
+
+</div>
+
 ■ Step 1 : 
 
 Create the Calculator Application 
-
+```
 - Built a functional calculator with add, subtract, multiply, and divide operations
 
 - Creat /components/calculator.tsx with full calculator logic and UI
@@ -24,7 +41,7 @@ Create the Calculator Application
 - Use React hooks (useState) for state management
 
 - Designe with a modern dark theme using Tailwind CSS
-
+```
 
 ■ Step 2 : 
 
@@ -32,7 +49,7 @@ Deploy the project & copy the url & save it .
 
 
 ■ Step 3 :  
-
+```
 Create the Farcaster Manifest File
 
 - Created /public/.well-known/farcaster.json - This file tells Base about our app
@@ -71,22 +88,22 @@ My url link :
     "noindex": false
   }
 }
-
+```
 ■ Step 4 : 
 
-● Added Required Images
+Added Required Images
 
-- i attach a image , so convert that image as required ratio and attach the same image in our mini app for all 3 forms .
+* >i attach a image , so convert that image as required ratio and attach the same image in our mini app for all 3 forms .
 
-● icon.png (300×300px) - A small icon of your app
+* >icon.png (300×300px) - A small icon of your app
 
-● splash.png (200×200px) - A splash screen image
+* >splash.png (200×200px) - A splash screen image
 
-● screenshot.png (1284×2778px) - A screenshot showing how the app looks
+* >screenshot.png (1284×2778px) - A screenshot showing how the app looks
 
 
 ■ Step 5 
-
+```
 Added Embed Metadata
 
 - Add fc:miniapp meta tag to layout.tsx metadata
@@ -100,9 +117,9 @@ Added Embed Metadata
 - Launch frame settings
 
 - Splash image and background color
-
+```
 ■ Step 6: 
-
+```
 Added Farcaster Miniapp SDK Integration
 
 - Install @farcaster/miniapp-sdk package (automatically included)
@@ -112,9 +129,9 @@ Added Farcaster Miniapp SDK Integration
 - Call sdk.actions.ready() when the app loads
 
 - This is the critical step that tells Base to hide the splash screen and display your calculator
-
+```
 ■ Step 7: 
-
+```
 Update Next.js Configuration
 
 - Update /next.config.mjs to work with Next.js 16's Turbopack
@@ -122,7 +139,7 @@ Update Next.js Configuration
 - Add turbopack: {} config to ensure clean builds
 
 - Remove webpack-specific configurations
-
+```
 ■ Step 8 : 
 
 •• Now for one time , click on deploy & deploy again 
@@ -160,3 +177,24 @@ Download Base App : https://play.google.com/store/apps/details?id=org.toshi
 •• signin with same base app email . 
 
 •• and follow video process
+
+Done✔️✔️
+
+<pre>
+
+Stay Connected
+
+👉 Join for more updates and future releases: https://linktr.ee/EarlyCTs
+
+If you run into any issues, You can also reach out to me directly via DM if needed.
+
+Thanks for checking out this.
+
+</pre>
+
+<div align="center">
+
+#  *❤️‍🔥 Happy vibe coding 👨🏻‍💻*
+
+</div>
+
