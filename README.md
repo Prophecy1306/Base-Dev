@@ -59,9 +59,9 @@ Create the Farcaster Manifest File
 - Created /public/.well-known/farcaster.json - This file tells Base about our app
 - Configured app metadata:
 
-My project name : 
+My project name : [Replace this Your Project Name]
 
-My url link : 
+My url link : [Replace this Your Project URL Link]
 
 {
   "accountAssociation": {
