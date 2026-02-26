@@ -33,8 +33,9 @@ I’m building a simple calculator as a mini dApp on Base.  The idea is straight
 
 ■ Step 1 : 
 
-Create the Calculator Application 
 ```
+Create the Calculator Application 
+
 - Built a functional calculator with add, subtract, multiply, and divide operations
 
 - Creat /components/calculator.tsx with full calculator logic and UI
