@@ -16,7 +16,7 @@ I’m building a simple calculator as a mini dApp on Base.  The idea is straight
 
 ##  **Basic-Requirements⚙️**
 
-1.) Create V0 account :- https://v0.app/ref/S4PSH0
+1.) Create Vercel account :- https://v0.app/ref/S4PSH0
 
 2.) Create @farcaster_xyz :- https://farcaster.xyz/~/code/039FJB
 
