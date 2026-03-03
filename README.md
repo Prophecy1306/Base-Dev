@@ -181,27 +181,38 @@ Once all these steps are completed then you will have to go to `Publish` and mak
 
 * >Wait until this is `completed` and Until then do not apply the next steps.
 
+Then Open Farcaster in Pc/Laptop 
+
+* >go to `Developer section then` & click on `Mini app manifest tools`
+
+* >then paste your `[Project URL]`
+
+(If any error shows then: You have to remove the last `/` thing and remove `https://` from the front, from your `Project URL`)
+
+* >then click on fetch & then click on Genrate account association 
+
+* >scan qr code from `Google Lens App` and verify your farcaster account
+
+* >copy `Update account association` code
+
+Now apply the prompt below.
+```
+Add this as account association
+
+[Paste the Update account association code here.]
+```
+* Deploy Vercel
+
+then you will have to go to `Publish` and make the `Publish Changes`,Keep doing this until your code are recalibrated.
+
+* >if recalibration is complete, you will need to go back to the `Farcaster website` and `reverify`
+* >then click `submit` (If you get an error after submitting then copy the error and deploy it on Vercel.)
 
 ■ Step 8 : `Mini App Ownership`
 
 * >Now for one time , click on deploy & deploy again 
 
-Then Open Farcaster in Pc/Laptop 
-
-* >go to Developer section then & click on Mini app manifest tools 
-
-* >then paste url ( check vidoe ) 
-
-* >then click on fetch & then click on Genrate account association 
-
-* >scan qr code and verify your farcaster account 
-
-* >Now copy everything and paste in V0 ( add prompt ) 
-
-Add this as account association  
-
 * >then Reverify and Submit .
-
 
 ■ Step 9 : [Register Domain]
 
