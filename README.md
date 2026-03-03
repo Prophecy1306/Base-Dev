@@ -143,6 +143,8 @@ Added Embed Metadata
 ```
 * Deploy Vercel
 
+Also, There are no changes to be made in `step 6` just copy and deploy it to Vercel.
+
 ■ Step 6: 
 ```
 Added Farcaster Miniapp SDK Integration
@@ -155,6 +157,7 @@ Added Farcaster Miniapp SDK Integration
 
 - This is the critical step that tells Base to hide the splash screen and display your calculator
 ```
+* Deploy Vercel
 
 ■ Step 7: 
 ```
