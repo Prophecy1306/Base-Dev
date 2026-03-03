@@ -163,6 +163,8 @@ Added Farcaster Miniapp SDK Integration
 ```
 * Deploy Vercel
 
+Also, There are no changes to be made in `step 7` just copy and deploy it to Vercel.
+
 ■ Step 7: 
 ```
 Update Next.js Configuration
@@ -173,6 +175,7 @@ Update Next.js Configuration
 
 - Remove webpack-specific configurations
 ```
+* Deploy Vercel
 
 ■ Step 8 : [Mini App Ownership]
 
