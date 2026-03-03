@@ -215,13 +215,16 @@ Then,
 * >You need to enter your `Project Name` and `Project URL`.
 
 Copy the `Prompt` and `HTML code` below the app URL and deploy it to Vercel.
+
 <img width="593" height="138" alt="Screenshot 2026-03-04 025101" src="https://github.com/user-attachments/assets/77cf18ae-8f60-4ff3-b257-1e8fe6b00cd4" />
+
 Then again, you have to Click on `Publish` → `Publish Production` and wait until the Building is Ready.
 
 * >Then you have to go to the base build website and click on `Verfie & Add`.
   >Go to Mini App Tools → Paste your `Project URL` → Click `Submit` (Now you will see your project name below.)
 
 Then you will see your mini app in the bottom corner.
+
 <img width="473" height="88" alt="Screenshot 2026-03-04 030028" src="https://github.com/user-attachments/assets/eca334c1-1381-413b-bf23-afe0f68a0622" />
 
 Then you have to go to the `Home page` of the `base build` and `featured` your mini app 
