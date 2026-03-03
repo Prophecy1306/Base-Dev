@@ -52,6 +52,9 @@ Also, you can add Project Name :
 ```
 My Project Name : [Your Project Name]
 ```
+After this, you have to Click on `Publish` → `Publish Production` and wait until the Building is Ready.
+
+
 ■ Step 2 : 
 
 * >Deploy the project & copy the url & save it .
