@@ -52,8 +52,8 @@ Also, you can add Project Name :
 ```
 My Project Name : [Your Project Name]
 ```
-After this, you have to Click on `Publish` → `Publish Production` and wait until the Building is Ready.
-
+* >After this, you have to Click on `Publish` → `Publish Production` and wait until the Building is Ready.
+* >When the Building is Ready, if you click on the URL at the top → it will redirect you to a new page then you have to `copy the URL` of that page.
 
 ■ Step 2 : 
 
