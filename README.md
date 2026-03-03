@@ -177,13 +177,15 @@ Update Next.js Configuration
 ```
 * Deploy Vercel
 
+Once all these steps are completed then you will have to go to `Publish` and make the `Publish Changes`
+
+* >Wait until this is `completed` and Until then do not apply the next steps.
+
 ■ Step 8 : [Mini App Ownership]
 
 * >Now for one time , click on deploy & deploy again 
 
 Then Open Farcaster in Pc/Laptop 
-
-* >Enable Developer Mode 
 
 * >go to Developer section then & click on Mini app manifest tools 
 
