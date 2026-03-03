@@ -44,7 +44,7 @@ Create the Calculator Application
 
 - Use React hooks (useState) for state management
 
-- Designe with a modern dark theme using Tailwind CSS
+- Designe with a modern crystal light theme using Tailwind CSS
 ```
 
 ■ Step 2 : 
