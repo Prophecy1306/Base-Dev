@@ -19,6 +19,7 @@ I’m building a simple calculator as a mini dApp on Base.  The idea is straight
 1.) Create Vercel account :- https://v0.app/ref/S4PSH0
 
 2.) Create @farcaster_xyz :- https://farcaster.xyz/~/code/039FJB
+* > Go to `Farcaster App` → `Setting` → Turn On `Enable Developer Tools`
 
 3.) Create @baseapp :- https://base.app/invite/friends/S7ZX04QK
 
