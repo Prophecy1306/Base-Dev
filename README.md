@@ -21,3 +21,7 @@ Inside this repo you’ll find:
 The goal is simple: `help anyone go from zero knowledge to building real Base Mini Apps without getting lost in complex documentation`.
 
 If you're curious about the Base ecosystem and want to actually build something, this repo will give you the path to start and improve step by step.
+
+<img width="1536" height="1024" alt="ChatGPT Image Mar 6, 2026, 01_41_14 AM" src="https://github.com/user-attachments/assets/f683153f-9a37-4644-9f72-3a108d0f2ec4" />
+
+# *DONE✔️✔️*
